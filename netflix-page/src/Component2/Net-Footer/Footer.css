@@ -1,0 +1,29 @@
+.inner_container{
+    margin: 0px 300px;
+    color: rgba(223, 215, 215, 0.658);
+}
+.footer_icons{
+color: white;
+margin-bottom: 6px;
+}
+.space{
+    margin-right: 35px;
+}
+.footer_data{
+display: flex;
+justify-content: space-between;
+}
+.footer_data li{
+margin-bottom: 10px;
+}
+.footer_data ul{
+    list-style: none;
+}
+.footer_service{
+    border: 1px solid rgba(223, 215, 215, 0.658);;
+    border-top: 1px solid white;
+    border-right: 1px solid white;
+    width: 100px;
+    margin-bottom: 8px;
+    
+}

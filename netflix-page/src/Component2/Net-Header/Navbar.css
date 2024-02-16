@@ -1,0 +1,47 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.nave-R-L{
+    display: flex;
+    justify-content: space-between;
+    color: white;
+    /* justify-content: center; */
+    background-color: #000;
+}
+.nave-R-L ul li{
+    list-style: none; 
+    padding-top: 35px;
+    padding-bottom: 20px;
+    
+}
+.header-left ul{
+    display: flex;
+    padding-left: 55px;
+    cursor: pointer;
+
+}
+.header-left ul li{
+    padding-right: 20px;
+}
+.header-Right{
+    width: 10%;
+    padding-right: 30px;
+}
+.header-Right ul{
+    display: flex;
+    justify-content: space-between;
+}
+.header-Right ul li{
+    padding-right: 10px;
+}
+
+.logo img{
+    margin-top: -22px;
+    width: 100px;
+    
+}
+
+
+
